@@ -5,7 +5,8 @@ sudo apt-get update && sudo apt-get install -y \
   ca-certificates \
   curl \
   vscodium \
-  gh
+  gh \
+  chromium
 
 # Git configuration
 git config --global user.email "youremail@protonmail.com"
